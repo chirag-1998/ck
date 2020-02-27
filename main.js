@@ -29,5 +29,4 @@ class Main extends LitElement {
   }
 }
 
-
-customElements.define(my-main,Main);
+window.customElements.define("my-main",Main);
